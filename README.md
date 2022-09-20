@@ -1,4 +1,4 @@
-# Movie Review Data Gatheirng
+# Movie Review Data Gathering
 
 ## Description
 
